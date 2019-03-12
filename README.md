@@ -1,6 +1,6 @@
 # Concolic Execution
 
-We are going to run concolic execution on programs from the RERS 2016 or 2017 challenges. The first step is to download and install KLEE:
+We are going to run concolic execution on programs from the RERS Reachability challenges. The first step is to download and install KLEE:
 
 https://klee.github.io/
 
@@ -48,6 +48,7 @@ Then download and unpack the RERS challenge programs:
 
 The RERS 2016 reachability problems - http://www.rers-challenge.org/2016/problems/Reachability/ReachabilityRERS2016.zip
 The RERS 2017 reachability training problems - http://rers-challenge.org/2017/problems/training/RERS17TrainingReachability.zip
+The RERS 2019 reachability problems - http://rers-challenge.org/2019/problems/sequential/SeqReachabilityRers2019_Mar_9th.zip
 
 The archives contain highly obfuscated c and java code.
 
