@@ -1,4 +1,4 @@
-# Concolic Execution
+# Symbolic Execution
 
 We are going to run concolic execution on programs from the RERS Reachability challenges. The first step is to download and install KLEE:
 
